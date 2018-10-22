@@ -2,13 +2,36 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>main page</title>
   <style>
+    body {
+        background-color: #000000;
+        color: ;
+    }
+    h1 {
+        font-family: 'Notable', sans-serif;
+        color: ;
+        font-size: 50px;
+    }
+    a {
+        color: ;
+        font-family: 'Dancing Script', cursive;
+        font-size: 24px;
+        text-decoration: none;
+    }
+    a:hover{
+      color: ;
+    }
   </style>
 </head>
 
 <body>
-    <h1>This is a skeleton website.</h1>
-    <p>Nothing to see here</p>
+    <img src="">
+    <h1>Main page.</h1>
+    <p>From this page you can access the other pages</p>
+    <ul>
+      <a href="p1.html">page 1</a>
+      <a href="p2.html">page 2</a>
+      <a href="p3.html">page 3</a>
+    </ul>
 </body>
 </html>
