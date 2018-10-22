@@ -2,36 +2,36 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <title>p1</title>
   <style>
-    body {
-        background-color: #000000;
-        color: ;
+    body{
+     background-color: #000000;
+      color:white;
     }
     h1 {
         font-family: 'Notable', sans-serif;
-        color: ;
+        color: red;
         font-size: 50px;
     }
     a {
-        color: ;
-        font-family: 'Dancing Script', cursive;
+        color: red;
+        font-family: 'Notable', sans-serif;
         font-size: 24px;
         text-decoration: none;
-    }
+ }
     a:hover{
-      color: ;
+      color: white;
     }
-  </style>
+    </style>
 </head>
 
 <body>
-    <img src="">
-    <h1>Main page.</h1>
-    <p>From this page you can access the other pages</p>
-    <ul>
-      <a href="p1.html">page 1</a>
-      <a href="p2.html">page 2</a>
-      <a href="p3.html">page 3</a>
-    </ul>
-</body>
+    <img src=".jpg">
+    <h1>page 2.</h1>
+  <p>This is page2</p>
+      <p><a href="index.html">Link to main age</a></p>
+</body> 
+  <img src=".jpg">      
+       <a href="p1.html">page 1</a>
+       <a href="p3.html">page 3</a>
 </html>
