@@ -28,7 +28,7 @@
 <body>
     <img src=".jpg">
     <h1>main page.</h1>
-  <p>This is page2</p>
+  <p>This is main page</p>
       <p><a href="clothing.line">Link to main age</a></p>
 </body> 
   <img src=".jpg">      
